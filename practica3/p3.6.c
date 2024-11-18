@@ -1,7 +1,7 @@
 int main(){
-short a[4];
-short b[4];
-short c[4];
+int a[4];
+int b[4];
+int c[4];
 a= [1, 2, 3, 4];
 b= [5, 6, 7, 8];
 
